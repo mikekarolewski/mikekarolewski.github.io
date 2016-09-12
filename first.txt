@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<b>I contain Text.</b>
+<p><b>I contain Text.</b></p>
 
 </body>
 </html>
