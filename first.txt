@@ -1,1 +1,12 @@
-I contain text.
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Text Example</title>
+</head>
+<body>
+
+<b>I contain Text.</b>
+
+</body>
+</html>
