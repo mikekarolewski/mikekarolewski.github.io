@@ -1,1 +1,14 @@
-
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: blue;
+h2 {
+  color: yellow;
+}
+h3 {
+  color: green;
+}
+p {
+    color: red;
+}
