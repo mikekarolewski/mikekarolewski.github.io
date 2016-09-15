@@ -11,6 +11,9 @@ p {
 }
 
 .header-site{
-   background: url(PictureFolder/green_day_logo.png);
+   background-color: #000000;
+   background-image: url(http://www.mikekarolewski.github.io/PictureFolder/green_day_logo.png); 
+   background-position: 100% 100%;
+   background-repeat: no-repeat;
 }
 
