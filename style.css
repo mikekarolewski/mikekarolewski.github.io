@@ -19,8 +19,8 @@ h4 {
 }
 p {
     color: red;
-    font-family: Georgia;
-    font-size: 3;
+    font-family: courier;
+    font-size: 100%;
 }
 
 .header-site{
