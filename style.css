@@ -12,7 +12,7 @@ p {
 
 .header-site{
    background-color: #000000;
-   background-image: url(http://www.mikekarolewski.github.io/PictureFolder/green_day_logo.png); 
+   background-image: url(PictureFolder/green_day_logo.png); 
    background-position: 100% 100%;
    background-repeat: no-repeat;
 }
