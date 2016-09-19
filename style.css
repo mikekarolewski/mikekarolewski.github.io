@@ -5,9 +5,21 @@ h1 {
     color: blue;
     font-family: verdana;
 }
+h2 {
+    color: blue;
+    font-family: verdana;
+}
+h3 {
+    color: blue;
+    font-family: verdana;
+}
+h4 {
+    color: blue;
+    font-family: verdana;
+}
 p {
     color: red;
-    font-family: verdana;
+    font-family: Georgia;
     font-size: 3;
 }
 
